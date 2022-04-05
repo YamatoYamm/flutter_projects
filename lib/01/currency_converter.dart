@@ -42,8 +42,7 @@ class _HomePageState extends State<HomePage> {
               padding: const EdgeInsets.all(16), // multiplii de 8 la dimensiuni
               child: TextFormField(
                 controller: _controller,
-                keyboardType:
-                    const TextInputType.numberWithOptions(decimal: true),
+                keyboardType: const TextInputType.numberWithOptions(decimal: true),
                 decoration: const InputDecoration(
                   hintText: "enter the amount in EUR",
                 ),
