@@ -67,7 +67,6 @@ flutter:
     - assets/images/bani.png
     - assets/audio/Salut.m4a
     - assets/audio/Hello.m4a
-    - assets/audio/Cumesti.m4a
     - assets/audio/Howareyou.m4a
     - assets/audio/Estibine.m4a
     - assets/audio/Areyouok.m4a
@@ -85,6 +84,7 @@ flutter:
     - assets/audio/Areyousure.m4a
     - assets/audio/Dece.m4a
     - assets/audio/Why.m4a
+    - assets/audio/Cumesti.m4a
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
