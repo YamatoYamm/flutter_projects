@@ -17,4 +17,8 @@ dependencies: \
   /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
   /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
   /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
-  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
+  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/audiofileplayer/audiofileplayer.framework/Headers/AudiofileplayerPlugin.h \
+  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/audiofileplayer/audiofileplayer.framework/Modules/module.modulemap \
+  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/audiofileplayer/audiofileplayer.framework/Headers/ManagedPlayer.h \
+  /Users/catalinpresneanu/IdeaProjects/flutter_projects/build/ios/Debug-iphonesimulator/audiofileplayer/audiofileplayer.framework/Headers/audiofileplayer-umbrella.h

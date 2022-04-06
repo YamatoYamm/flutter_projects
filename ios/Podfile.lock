@@ -1,0 +1,22 @@
+PODS:
+  - audiofileplayer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - audiofileplayer (from `.symlinks/plugins/audiofileplayer/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  audiofileplayer:
+    :path: ".symlinks/plugins/audiofileplayer/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  audiofileplayer: 4aaff759a721ec3a850a682e0d9ec554e5f9e86f
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: e1dbb4df4c73eba27e41c7f64401092dfca3cf0f
+
+COCOAPODS: 1.11.3
